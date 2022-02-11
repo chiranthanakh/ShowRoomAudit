@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShowRoomAudit</string>
+
+    <string name="email_error">Please enter your Email-id</string>
+    <string name="pass_error">Please enter your Password</string>
+
+</resources>

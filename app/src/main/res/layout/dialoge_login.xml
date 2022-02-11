@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+            <LinearLayout
+                android:layout_width="350dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:animateLayoutChanges="true">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:layout_marginTop="50dp"
+                    android:text="Duplicate Rack Found, Please Login"
+                    android:textStyle="bold"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"
+                    android:background="@drawable/image_place_holder"
+                    android:gravity="center"/>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintTop_toTopOf="parent"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginStart="20dp"
+                    android:textColorHint="@color/grey"
+                    app:hintTextColor="@color/black"
+                    android:layout_marginTop="20dp"
+                    app:boxStrokeColor="@color/purple_500"
+                    app:startIconDrawable="@drawable/ic_baseline_art_track_24"
+                    app:startIconTint="@color/grey"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/edt_rk"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@null"
+                        android:textColorHint="@color/black"
+                        android:hint="Enter rack code"
+                        android:inputType="text"
+                        android:textColor="@color/black"
+                        android:padding="0dp"
+                        android:textSize="14sp"/>
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintTop_toTopOf="parent"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginStart="20dp"
+                    android:textColorHint="@color/grey"
+                    app:hintTextColor="@color/black"
+                    android:layout_marginTop="20dp"
+                    app:boxStrokeColor="@color/purple_500"
+                    app:startIconDrawable="@drawable/user"
+                    app:startIconTint="@color/grey"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/edt_user"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@null"
+                        android:textColorHint="@color/black"
+                        android:hint="UserName"
+                        android:inputType="text"
+                        android:textColor="@color/black"
+                        android:padding="0dp"
+                        android:textSize="14sp"/>
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintTop_toTopOf="parent"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="20dp"
+                    app:boxStrokeColor="@color/purple_500"
+                    android:textColorHint="@color/grey"
+                    app:hintTextColor="@color/black"
+                    app:startIconTint="@color/grey"
+                    app:startIconDrawable="@drawable/lock"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/edt_password"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@null"
+                        android:hint="Password"
+                        android:padding="0dp"
+                        android:textColor="@color/black"
+                        android:textColorHint="@color/black"
+                        android:inputType="textPassword"
+                        android:textSize="14sp"/>
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <Button
+                    android:id="@+id/btn"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginBottom="20dp"
+                    android:insetTop="0dp"
+                    android:insetBottom="0dp"
+                    android:text="Submit"
+                    android:textSize="14sp"
+                    android:textStyle="bold"/>
+
+
+            </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>

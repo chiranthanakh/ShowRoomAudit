@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/drawable-v24/gc.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/drawable/button_capsule_cyan.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/drawable/button_sync.xml" value="0.18229166666666666" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/drawable/circular_proressbar.xml" value="0.171875" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/drawable/clear.xml" value="0.2203125" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/drawable/gc.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/drawable/image_place_holder.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/drawable/order_confirm_illus.xml" value="0.2203125" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/drawable/sync.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/activity_addlistactivity.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/activity_admin_login.xml" value="0.10520833333333333" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/activity_lengthval.xml" value="0.22" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/activity_poi.xml" value="0.1765625" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/activity_rack_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/activity_scan.xml" value="0.21" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/activity_sync.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/activity_upload.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/activity_upload_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/barcode_layout.xml" value="0.22" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/dashboard_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/dialog_gcadmincount.xml" value="0.1765625" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/dialog_save.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/dialoge_gcteamlead.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/dialoge_login.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/mylist.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/navigation_layout.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/success_alert.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/Personal/Desktop/ShowRoomAudit/app/src/main/res/layout/test.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/activity_addlistactivity.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/activity_admin_login.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/activity_lengthval.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/activity_login.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/activity_main.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/activity_rack_login.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/activity_scan.xml" value="0.21" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/activity_splash.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/activity_upload.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/activity_upload_list.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/barcode_layout.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/dashboard_layout.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/dialog_gcadmincount.xml" value="0.25" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/dialog_save.xml" value="0.33" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/dialoge_gcteamlead.xml" value="0.5" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/dialoge_login.xml" value="0.5" />
+        <entry key="..\:/Users/Personal/Desktop/proProjects/ShowRoomAudit/app/src/main/res/layout/mylist.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable-v24/gradient_back.xml" value="0.2518518518518518" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable-v24/lock.xml" value="0.2518518518518518" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/back_arrow.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/button_back.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/button_capsule_blue.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/button_capsule_border.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/capsule_border_grey.xml" value="0.24444444444444444" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/card_shadow_back.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/close_icon.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/delete1.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/dialog_back.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/export.xml" value="0.262037037037037" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/gradient_back_main_layout.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/home.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/ic_menu.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/image_place_holder.xml" value="0.24444444444444444" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/lock.xml" value="0.2518518518518518" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/logout_icon.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/plus.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/rating_back.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/sp_1.xml" value="0.2518518518518518" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/sp_3.xml" value="0.2518518518518518" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/spinner_back.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/upload.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/drawable/user.xml" value="0.2518518518518518" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/font/proxima.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/layout/activity_addlistactivity.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/layout/activity_login.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/layout/activity_rack_login.xml" value="0.25" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/layout/activity_scan.xml" value="0.264" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/layout/activity_upload.xml" value="0.25" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/layout/barcode_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/layout/column_row.xml" value="0.25" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/layout/dashboard_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/layout/dialog_application_submited.xml" value="0.25" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/layout/dialoge_login.xml" value="0.264" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/layout/listview_brcode.xml" value="0.25" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/layout/mylist.xml" value="0.2359375" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/layout/navigation_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Prinsh/AndroidStudioProjects/ShowRoomAudit/app/src/main/res/layout/success_alert.xml" value="0.21944444444444444" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

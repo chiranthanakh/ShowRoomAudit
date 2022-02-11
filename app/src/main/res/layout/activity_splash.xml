@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".views.activities.SplashActivity">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            app:tint="@color/grey"
+            android:src="@drawable/sp_1"/>
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            app:tint="@color/grey"
+            android:src="@drawable/sp_2"/>
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            app:tint="@color/grey"
+            android:src="@drawable/sp_3"/>
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            app:tint="@color/grey"
+            android:src="@drawable/sp_4"/>
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            app:tint="@color/grey"
+            android:src="@drawable/sp_12"/>
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            app:tint="@color/grey"
+            android:src="@drawable/sp_6"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/sp_7"
+            app:tint="@color/grey" />
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/sp_8"
+            app:tint="@color/grey" />
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/sp_9"
+            app:tint="@color/grey" />
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/sp_10"
+            app:tint="@color/grey" />
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/sp_11"
+            app:tint="@color/grey" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/sp_13"
+            app:tint="@color/grey" />
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/sp_14"
+            app:tint="@color/grey" />
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/sp_15"
+            app:tint="@color/grey" />
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/sp_16"
+            app:tint="@color/grey"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/sp_17"
+            app:tint="@color/grey"/>
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/sp_18"
+            app:tint="@color/grey"/>
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/sp_19"
+            app:tint="@color/grey"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            app:tint="@color/grey"
+            android:src="@drawable/sp_20"/>
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            app:tint="@color/grey"
+            android:src="@drawable/sp_21"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="5dp"
+            app:tint="@color/grey"
+            android:src="@drawable/sp_5"/>
+    </LinearLayout>
+
+
+</LinearLayout>
+
+
+
+    <ImageView
+        android:id="@+id/splash_image"
+        android:src="@drawable/logoaudit"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_width="160dp"
+        android:layout_height="160dp"/>
+    
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end">
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_margin="5dp"
+                android:src="@drawable/sp_21"
+                app:tint="@color/grey" />
+
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end">
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                app:tint="@color/grey"
+                android:layout_margin="5dp"
+                android:src="@drawable/sp_20"/>
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                app:tint="@color/grey"
+                android:layout_margin="5dp"
+                android:src="@drawable/sp_2"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end">
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_margin="5dp"
+                android:src="@drawable/sp_18"
+                app:tint="@color/grey" />
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/sp_17"
+                app:tint="@color/grey"
+                android:layout_margin="5dp"/>
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/sp_16"
+                app:tint="@color/grey"
+                android:layout_margin="5dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end">
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                app:tint="@color/grey"
+                android:layout_margin="5dp"
+                android:src="@drawable/sp_15"/>
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                app:tint="@color/grey"
+                android:layout_margin="5dp"
+                android:src="@drawable/sp_14"/>
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                app:tint="@color/grey"
+                android:layout_margin="5dp"
+                android:src="@drawable/sp_13"/>
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                app:tint="@color/grey"
+                android:layout_margin="5dp"
+                android:src="@drawable/sp_13"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end">
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                app:tint="@color/grey"
+                android:layout_margin="5dp"
+                android:src="@drawable/sp_12"/>
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                app:tint="@color/grey"
+                android:layout_margin="5dp"
+                android:src="@drawable/sp_11"/>
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                app:tint="@color/grey"
+                android:layout_margin="5dp"
+                android:src="@drawable/sp_10"/>
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_margin="5dp"
+                app:tint="@color/grey"
+                android:src="@drawable/sp_9"/>
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_margin="5dp"
+                android:src="@drawable/sp_8"
+                app:tint="@color/grey" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end">
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_margin="5dp"
+                android:src="@drawable/sp_7"
+                app:tint="@color/grey"/>
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                app:tint="@color/grey"
+                android:src="@drawable/sp_6"
+                android:layout_margin="5dp"/>
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                app:tint="@color/grey"
+                android:src="@drawable/sp_5"
+                android:layout_margin="5dp"/>
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/sp_4"
+                android:layout_margin="5dp"
+                app:tint="@color/grey" />
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/sp_3"
+                app:tint="@color/grey"
+                android:layout_margin="5dp"/>
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/sp_19"
+                app:tint="@color/grey"
+                android:layout_margin="5dp"/>
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
